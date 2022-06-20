@@ -9,3 +9,5 @@ Installed:
   - wget
   - unzip
   - pmd
+  - prettier
+  - prettier-plugin-apex
